@@ -31,6 +31,12 @@ export FLASK_CONFIG=development
 export FLASK_APP=run.py
 ```
 ```
+
+Create mysql DataBase with name : flask_test
+Set the file instance/config.py with the database conf.
+```
+```
+
 flask db init
 ```
 ```

@@ -59,7 +59,7 @@ local_settings.py
 migrations/
 
 # Flask stuff:
-instance/
+# instance/
 .webassets-cache
 
 # Scrapy stuff:
