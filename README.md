@@ -1,21 +1,15 @@
 # Test Python Flask
 
-In this three-part tutorial, we’ll build a CRUD (Create, Read, Update, Delete) employee management web app using Flask, a microframework for Python. I’ve named the app Project Dream Team, and it will have the following features:
-
-Users will be able to register and login as employees
-The administrator will be able to create, update, and delete departments and roles
-The administrator will be able to assign employees to a department and assign them roles
-The administrator will be able to view all employees and their details
- 
+This is the simple project called witch I made to test flask a microframework for Python. In the project I made a CRUD (Create, Read, Update, Delete) employee management web app.
 
  
 ### Installing (for linux)
 
-open the terminal and follow the white rabbit.
+open the terminal.
 
 
 ```
-git clone https://github.com/osiastossou/example-flask-crud.git
+git clone https://github.com/osiastossou/testflask.git
 ```
 ```
 cd testflask/
@@ -48,7 +42,3 @@ flask db upgrade
 ```
 flask run
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
